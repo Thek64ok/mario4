@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\mario4\\mario4\\Source\\mario4\\mario4.Build.cs",
+		"E:\\mario4\\mario4\\Source\\mario4.Target.cs",
+		"E:\\mario4\\mario4\\Source\\mario4Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

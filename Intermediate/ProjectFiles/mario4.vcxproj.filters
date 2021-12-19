@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\mario4.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E59C0B55-2939-49AA-A8E3-0BDBFC5D9120}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\mario4.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\mario4Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{27EEA20A-F8F7-4FFC-8382-412757094BA8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\mario4">
+      <UniqueIdentifier>{02EEC496-3D74-4835-B3C1-1DC11B464CFF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\mario4\mario4.Build.cs">
+      <Filter>Source\mario4</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\mario4\mario4.cpp">
+      <Filter>Source\mario4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\mario4\mario4.h">
+      <Filter>Source\mario4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\mario4\mario4GameModeBase.cpp">
+      <Filter>Source\mario4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\mario4\mario4GameModeBase.h">
+      <Filter>Source\mario4</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

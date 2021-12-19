@@ -1,0 +1,9 @@
+E:\mario4\mario4\Intermediate\Build\Win64\UE4Editor\Development\mario4\Definitions.mario4.h
+E:\ue4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\ue4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\mario4\mario4\Source\mario4/mario4GameModeBase.h
+E:\ue4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\ue4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\ue4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\ue4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\mario4\mario4\Intermediate\Build\Win64\UE4Editor\Inc\mario4\mario4GameModeBase.generated.h
